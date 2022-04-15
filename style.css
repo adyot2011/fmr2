@@ -35,14 +35,11 @@ body{
 canvas{
     border: 5px solid white;
     box-shadow: 5px 5px 5px grey;
-    margin-top: 110px;
+    margin-top: 70px;
     font-family:'Quicksand', sans-serif;
 }
 
-video{
-margin-top: 70px;
 
-}
 
 p{
     box-shadow: 5px 5px 5px grey;
