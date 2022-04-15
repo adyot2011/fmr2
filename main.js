@@ -9,7 +9,8 @@ input_name = "";
 function setup()
 {
     video = createCapture(VIDEO);
-     video.size(550, 450);
+     video.size(600, 490);
+     video.position(110,100);
 
      canvas = createCanvas(550, 450);
      canvas.position(750,80);
