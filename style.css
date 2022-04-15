@@ -34,10 +34,14 @@ body{
 
 canvas{
     border: 5px solid white;
-    border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
-    margin-top: 40px;
+    margin-top: 110px;
     font-family:'Quicksand', sans-serif;
+}
+
+video{
+margin-top: 70px;
+
 }
 
 p{
